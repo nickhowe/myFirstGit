@@ -1,9 +1,9 @@
-#myFirstGit
+# myFirstGit
 ## project description
 software frameworks week2 workshop task
-##install instructions
+## install instructions
 'git clone repository'
-##run instructions
+## run instructions
 run with node  'node index.js'
 ## table of weeks for the course, and the course content.
 | Week | Task |
