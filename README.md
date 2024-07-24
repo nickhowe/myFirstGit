@@ -2,9 +2,9 @@
 ## project description
 software frameworks week2 workshop task
 ## install instructions
-'git clone repository'
+`git clone repository`
 ## run instructions
-run with node  'node index.js'
+run with node  `node index.js`
 ## table of weeks for the course, and the course content.
 | Week | Task |
 | ------------- | ------------- |
